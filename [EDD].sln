@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arboles", "[EDD]Tarea3\Arboles.csproj", "{89028D68-3B04-4817-9622-87080D8DB87A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89028D68-3B04-4817-9622-87080D8DB87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89028D68-3B04-4817-9622-87080D8DB87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89028D68-3B04-4817-9622-87080D8DB87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89028D68-3B04-4817-9622-87080D8DB87A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B880B72A-BA8B-49F3-976B-F3CE23CED53F}
+	EndGlobalSection
+EndGlobal
